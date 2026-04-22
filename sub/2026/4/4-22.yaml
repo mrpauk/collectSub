@@ -1,17 +1,24 @@
 clash订阅:
-- https://proxypool.dmit.dpdns.org/clash/proxies
-- https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
 - https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 - https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-- https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
-- https://sni.111000.dynv6.net/sub?clash
 - https://sni.111000.dynv6.net/sub
+- https://sni.111000.dynv6.net/sub?clash
 - https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
+- https://proxypool.dmit.dpdns.org/clash/proxies
+- https://proxypool.dmit.dpdns.org/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1&amp;type=ss
+- https://proxypool.dmit.dpdns.org/clash/proxies?nstream=netflix,disney&amp;nc=CA&amp;type=ss,vmess,vless
 v2订阅:
 - https://iuiu.lovebabyforever.workers.dev/
 开心玩耍:
-- 可用流量:1000000000.0 GB                    https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
-- 可用流量:3138.41 GB                    https://aoe.o.eoa.ccwu.cc/o
+- 可用流量:21696.57 GB                    https://aoe.o.eoa.ccwu.cc/o
+- 可用流量:484.47 GB                    https://47.112.97.173:5000/api/v1/client/subscribe?token=26cb48926655cda677b068c4d212108d
+- 可用流量:125.31 GB                    https://47.242.128.61:5000/api/v1/client/subscribe?token=868ef2ec4b3776d8845675ba8898a2c4
+- 可用流量:86.83 GB                    https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=f6645026ec5b4bf975ea5791b40b0e4a
+- 可用流量:199.08 GB                    https://47.242.128.61:5000/api/v1/client/subscribe?token=41975f235b608d3953afc06cddaa843f
 机场订阅:
+- https://47.242.128.61:5000/api/v1/client/subscribe?token=868ef2ec4b3776d8845675ba8898a2c4
+- https://47.242.128.61:5000/api/v1/client/subscribe?token=41975f235b608d3953afc06cddaa843f
+- https://47.112.97.173:5000/api/v1/client/subscribe?token=26cb48926655cda677b068c4d212108d
 - https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=1a7a3ead1236137ee05d77bd6a21af7e
+- https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=f6645026ec5b4bf975ea5791b40b0e4a
 - https://aoe.o.eoa.ccwu.cc/o
